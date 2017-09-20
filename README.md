@@ -1,4 +1,6 @@
-Read the respective folder of algorithm.
+Approach we followed in the test cases:
+
+Read the respective input data folder of algorithm.
 
 Read EACH input file one by one.
 
