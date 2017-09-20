@@ -1,0 +1,10 @@
+Intersecting
+Intersecting
+Touching
+Disjoint-Inside
+Disjoint-Inside
+Intersecting
+Disjoint-Outside
+Intersecting
+Disjoint-Outside
+Touching

@@ -1,0 +1,4 @@
+Touching
+Disjoint-Outside
+Touching
+Touching
